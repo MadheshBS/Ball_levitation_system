@@ -1,0 +1,46 @@
+# MATLAB and Simulink Artifacts
+*.slx
+*.slxc
+*.slx.original
+*.slx.autosave
+*.m
+*.mat
+*.mex*
+*.asv
+*.fig
+*.mlx
+*.xml
+slprj/
+codegen/
+*.autosave
+*.bak
+
+# CAD Temporary and Lock Files (SolidWorks)
+*~$*
+~lock.*
+*.tmp
+*.bak
+*.swp
+*.sdr
+
+# Arduino / Firmware Build Artifacts
+build/
+*.hex
+*.elf
+*.bin
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.swp
+*~
